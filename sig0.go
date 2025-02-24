@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	TIMEDIFF int64 = 1000
+	TIMEDIFF int64 = 300
 )
 
 var (
